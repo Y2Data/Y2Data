@@ -2,4 +2,4 @@
 
 * Fluently speak English, Chinese and Japanese, learning German (Schön, Sie kennenzulearnen!)
 * Tokyo
-* Have indefinate curiosity over technology
+* Have infinite curiosity over technology
