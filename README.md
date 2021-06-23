@@ -1,5 +1,6 @@
 ### English lit student -> Python Developer -> IT Consultant
 
-* Fluently speak English, Chinese and Japanese, learning German (Schön, Sie kennenzulearnen!)
-* Tokyo
-* Have infinite curiosity over technology
+* Natural Language: Mandarin, Japanese, English and French.
+* Python, R, Java.
+* Machine Learning & Deep Learning.
+* Kaggle contributor. 
