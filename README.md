@@ -1,4 +1,4 @@
-### English lit student -> Python Developer -> IT Consultant
+### English lit student -> IT Consultant -> Data Analyst
 
 * Natural Language: Mandarin, Japanese, English and French.
 * Python, R, Java.
