@@ -1,9 +1,5 @@
-### English lit student -> IT Consultant -> Data Analyst
+## Data Engineer at CCBJI
 
-Data Analyst in Crypto Exchange, Tokyo Japan.
+English Lit -> InfoSys -> bitFlyer -> CCBJI
 
-* Natural Language: Mandarin, Japanese, English and French.
-* Python, R, Java.
-* Machine Learning & Deep Learning.
-* Kaggle contributor. 
-* AWS, Azure & GCP
+Python, SQL, 
