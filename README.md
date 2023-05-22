@@ -2,4 +2,7 @@
 
 English Lit -> InfoSys -> bitFlyer -> CCBJI
 
-Python, SQL, 
+### Languages:
+Python, SQL, Scala
+Mandarin, Japanese, English, French
+
