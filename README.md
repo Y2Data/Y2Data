@@ -1,11 +1,12 @@
-## Data Engineer at CCBJI
+## Data Engineering Lead @Novo Nordisk
 
-English Lit -> InfoSys -> bitFlyer -> Coca Cola -> Novo Nordisk
+English Lit -> GCP Tech Support -> bitFlyer -> Coca Cola -> Novo Nordisk
 
 ### Languages:
-Python, SQL, Scala, Golang
-Clouds Stuff. Mainly played Azure + Synapse, but also AWS.
-dbt + Snowflake
+* Python, SQL, Scala, Golang
+* Clouds Stuff.
+  * Ex-Tech support @Google Cloud Platform
+  * Mainly played Azure + Synapse, but also AWS.
+* dbt + Snowflake
 ---
-Mandarin, Japanese, English, French
-
+Mandarin, Japanese, English, French, German, Danish
