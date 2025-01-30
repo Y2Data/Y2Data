@@ -1,12 +1,13 @@
-## Data Engineering Lead @Novo Nordisk
+## Associate Director of Professional Services, Technical Consulting @Anaqua
 
-English Lit -> GCP Tech Support -> bitFlyer -> Coca Cola -> Novo Nordisk
+English Lit -> GCP Tech Support -> bitFlyer -> Coca Cola -> Novo Nordisk -> Anaqua
 
 ### Languages:
 * Python, SQL, Scala, Golang
+* 
 * Clouds Stuff.
   * Ex-Tech support @Google Cloud Platform
-  * Mainly played Azure + Synapse, but also AWS.
-* dbt + Snowflake
+  * Worked with all 3 clouds
+* dbt + Snowflake + Dagster
 ---
-Mandarin, Japanese, English, French, German, Danish
+Mandarin, Japanese, English, French
