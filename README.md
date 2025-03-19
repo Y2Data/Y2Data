@@ -11,6 +11,6 @@ English Lit -> GCP Tech Support -> bitFlyer -> Coca Cola -> Novo Nordisk -> Anaq
   * Terraform
 * dbt + Snowflake + Dagster
 
-* Prompt engineering
+* Build LLM backend, MCP server, Prompt engineering etc.
 ---
 Mandarin, Japanese, English, French
