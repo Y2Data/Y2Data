@@ -10,7 +10,11 @@ English Lit -> GCP Tech Support -> bitFlyer -> Coca Cola -> Novo Nordisk -> Anaq
   * Worked with all 3 clouds
   * Terraform
 * dbt + Snowflake + Dagster
+  * built couple data platforms
+* building data teams
+
+* Lots of client work
 
 * Build LLM backend, MCP server, Prompt engineering etc.
 ---
-Mandarin, Japanese, English, French
+Mandarin, Japanese, English
